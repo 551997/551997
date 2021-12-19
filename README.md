@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @551997
-- 👀 I’m interested in data science lecture and fullstack development
+- 👋 Hi, I’m erik Gumilar
+- 👀 I’m interested in data science and Health Safety Environment development
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science and fullstack development
+- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me? just contacting me 24/7
 
 <!---
